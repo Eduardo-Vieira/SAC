@@ -1,0 +1,15 @@
+{
+  "name": "SAC",
+  "authors": [
+    "Eduardo Vieira <gceduvieira@gmail.com>"
+  ],
+  "description": "SAC - Sistema de Atendimento ao Cliente",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.5.8"
+  }
+}
